@@ -24,3 +24,5 @@ Because I did not have a proper resistor, it turns out, I burnt this one after s
 
 https://github.com/Dacili/Arduino-projects/assets/37112852/fddc991a-0af7-4936-a7db-109fcfe0ee6c
 
+How to read resistors, with color code calculations?  
+ ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/49985f44-1b95-4fdf-b2ed-c2c75593a6c8)
