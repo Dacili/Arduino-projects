@@ -15,8 +15,8 @@ https://github.com/Dacili/Arduino-projects/assets/37112852/71b6b105-bd82-4c6f-ae
 ## 3. Traffic lights - with only one 3 pin LED
 
 3 pin LED are specific LED, which can show 3 different colors based on the inputs. The middle pin is negative.
-![image](https://github.com/Dacili/Arduino-projects/assets/37112852/b949792d-b3ea-4e4a-a7f3-23a994145578)
-
+![image](https://github.com/Dacili/Arduino-projects/assets/37112852/b949792d-b3ea-4e4a-a7f3-23a994145578)  
+Because I did not have a proper resistor, it turns out, I burnt this one after some time of usage... :(  
 
 
 https://github.com/Dacili/Arduino-projects/assets/37112852/f53cd3cf-e219-4ac7-a4b7-0027ec10f3be
