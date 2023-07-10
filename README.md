@@ -10,7 +10,9 @@ https://github.com/Dacili/Arduino-projects/assets/37112852/7b2fc3e4-073a-40e8-87
 
 
 
-https://github.com/Dacili/Arduino-projects/assets/37112852/71b6b105-bd82-4c6f-aeee-cb72fec908c5
+
+https://github.com/Dacili/Arduino-projects/assets/37112852/7bef21aa-ae52-4b95-8cda-08a748d80ced
+
 
 ## 3. Traffic lights - with only one 3 pin LED
 
