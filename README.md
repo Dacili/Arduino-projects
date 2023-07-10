@@ -37,7 +37,11 @@ I was working without resistors (because I did not have a proper one xD), but th
 Once you put the input into one hole on Arduino ***breadboard***, then vertically that side of the breadboard has that input. Check the colored rectangles.  
 ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/db512a99-638c-4f88-a300-88a590ecfec1)
 
-
+**Resistors**  
+The resistor is an electrical component that limits the flow of electrical current (in an electronic circuit).<br/><br/>
+*Why do we need them?*  
+If you try to connect the LED diode to the 9V battery, you will soon find out why! Haha, it will burn out because the capacity of the LED is smaller than the input we provided.   
+ <br/><br/>
 How to read **resistors**, with **color code calculations**?  
  ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/49985f44-1b95-4fdf-b2ed-c2c75593a6c8)  
 
