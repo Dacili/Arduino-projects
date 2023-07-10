@@ -34,7 +34,10 @@ The longer one is the anode, shorter one is the cathode. If you switch the wires
 How to connect LED diode to Arduino?  
 We're always connecting the cathode (-) to the GND.   
 ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/5bb9c8ee-4708-4dac-bec3-a1bb1ff03225)  
-I was working without resistors (because I did not have a proper one xD), but that affects the lifetime of the LED. 
+I was working without resistors (because I did not have a proper one xD), but that affects the lifetime of the LED.   
+Once you put the input into one hole on Arduino breadboard, then vertically that side of the breadboard has that input. Check the colored rectangles.  
+![image](https://github.com/Dacili/Arduino-projects/assets/37112852/db512a99-638c-4f88-a300-88a590ecfec1)
+
 
 
 
