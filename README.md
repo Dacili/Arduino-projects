@@ -19,5 +19,6 @@ https://github.com/Dacili/Arduino-projects/assets/37112852/71b6b105-bd82-4c6f-ae
 Because I did not have a proper resistor, it turns out, I burnt this one after some time of usage... :(  
 
 
-https://github.com/Dacili/Arduino-projects/assets/37112852/f53cd3cf-e219-4ac7-a4b7-0027ec10f3be
+
+https://github.com/Dacili/Arduino-projects/assets/37112852/fddc991a-0af7-4936-a7db-109fcfe0ee6c
 
