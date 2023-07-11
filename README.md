@@ -42,13 +42,14 @@ The resistor is an electrical component that limits the flow of electrical curre
 *Why do we need them?*  
 If you try to connect the LED diode to the 9V battery, you will soon find out why! Haha, it will burn out because the capacity of the LED is smaller than the input we provided.   
  <br/><br/>
-How to read **resistors**, with **color code calculations**?  
- ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/49985f44-1b95-4fdf-b2ed-c2c75593a6c8)    <br/><br/>
- **Forward voltage** = the amount of voltage needed to get current to flow across a diode. (the minimum voltage required to turn on an LED)<br/> 
+  **Forward voltage** = the amount of voltage needed to get current to flow across a diode. (the minimum voltage required to turn on an LED)<br/> 
  Every LED diode, based on color, has a different forward voltage:  
  ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/6f3570ab-638d-4a6b-a522-574af32754c9)   
  **Voltage drop** = the decrease of electric potential along the path of a current flowing in a circuit. (voltage lost across the diode when it is conducting current.)    
  (How much you actually lose energy, for ex. how much voltage do you actually use/lose on LED lighting and heating.)  
+<br/>
+How to read **resistors**, with **color code calculations**?  
+ ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/49985f44-1b95-4fdf-b2ed-c2c75593a6c8)    <br/><br/>
 
 
 
