@@ -24,6 +24,25 @@ Because I did not have a proper resistor, it turns out, I burnt this one after s
 
 https://github.com/Dacili/Arduino-projects/assets/37112852/fddc991a-0af7-4936-a7db-109fcfe0ee6c
 
+## 4. Password check - with keypad and LCD  
+This one is done in ***wokwi.com***, it's an awesome online simulator, where you can use whatever you want for free!   
+The link for this project is https://wokwi.com/projects/370154336032915457   
+I wanted to use a few same pins for LCD and Keypad (that's the reason for the breadboard there), but I had issues where the LCD screen got randomly characters written when I was pressing the keypad. The reason for that is a side effect of sharing pins between these two, because LCD treats them as OUTPUTS, while Keypad treats them as INPUTS.
+
+https://github.com/Dacili/Arduino-projects/assets/37112852/5ba3148f-01c4-4b0b-b9db-2520cc120817
+
+### Wokwi.com things
+In sketch.ino tab, you can check the actual code. ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/197c736a-2ed6-484a-9530-f8240ab484d1)   
+If you use include statements for some libraries, make sure you added libraries in that tab: ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/683cbaab-20a8-4e8c-af15-e1f0ab1ea2be)  
+![image](https://github.com/Dacili/Arduino-projects/assets/37112852/c50404e2-ae4a-48ae-abce-fcafacdba65c)  
+<br/>
+In diagram.json tab, you have all info about created scheme:  
+![image](https://github.com/Dacili/Arduino-projects/assets/37112852/6571b846-ec7b-49e0-bb38-dd0161d67bf9)  
+In parts, you have listed all components. In every part, you can provide attrs property, such as I did for LCD and resistor to customize them.  
+![image](https://github.com/Dacili/Arduino-projects/assets/37112852/65759d78-b247-45be-af21-ca936acbcf94)   
+In connections, you have listed all your wires.    
+
+
 ## A little theory 
 
 **LED diode:**  
