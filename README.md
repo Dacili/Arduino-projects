@@ -40,12 +40,22 @@ In diagram.json tab, you have all info about created scheme:
 ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/6571b846-ec7b-49e0-bb38-dd0161d67bf9)  
 In parts, you have listed all components. In every part, you can provide attrs property, such as I did for LCD and resistor to customize them.  
 ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/65759d78-b247-45be-af21-ca936acbcf94)   
-In connections, you have listed all your wires.    
+In connections, you have listed all your wires.   
+<br/>  
+If you click on some element, when you're not running simulation, you will see ? icon. Clicking on that, you will be redirected to the documentation for that specific element.    
+<img width="194" alt="image" src="https://github.com/Dacili/Arduino-projects/assets/37112852/884c8004-6b86-4d64-97fb-9d32f415287d">   
+Sometimes connecting many pins can be very tiring, for some element pins, when you click on it, and move the tire, it will automatically recommend where to connect that pin to Arduino pin, by marking it as white. Also, once you created a wire, you can adjust it's position by clicking on it, and moving the purple circles on the wires.   
+
+
+https://github.com/Dacili/Arduino-projects/assets/37112852/4a761861-2b1c-4ffa-9ee5-baed77c46a3e
+
 
 
 ## A little theory 
 
 **LED diode:**  
+
+
 ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/87264161-2ad0-45e4-96d1-92e1480de292)  
 The longer one is the anode, shorter one is the cathode. If you switch the wires, it will just not work.   
 #### How to connect LED diode to Arduino?  
