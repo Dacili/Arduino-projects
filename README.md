@@ -47,8 +47,10 @@ If you click on some element, when you're not running simulation, you will see ?
 Sometimes connecting many pins can be very tiring, for some element pins, when you click on it, and move the tire, it will automatically recommend where to connect that pin to Arduino pin, by marking it as white. Also, once you created a wire, you can adjust it's position by clicking on it, and moving the purple circles on the wires.   
 
 
-https://github.com/Dacili/Arduino-projects/assets/37112852/4a761861-2b1c-4ffa-9ee5-baed77c46a3e
+https://github.com/Dacili/Arduino-projects/assets/37112852/4a761861-2b1c-4ffa-9ee5-baed77c46a3e  
 
+While doing simulation, if you click on pause button, you will see in that moment which pin is input vs output info:  
+![image](https://github.com/Dacili/Arduino-projects/assets/37112852/faddb15a-5e87-4836-b33f-f4ffe7b3d2c7)  
 
 
 ## A little theory 
