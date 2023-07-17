@@ -54,6 +54,11 @@ While doing simulation, if you click on pause button, you will see in that momen
 
 ## 5. Digital Humidity and Temperature sensor alarm  
 https://wokwi.com/projects/370509489417168897  
+When the temperature is high (> 50) then turn on the sound alarm. Unmute the video to hear the sound.  
+
+
+https://github.com/Dacili/Arduino-projects/assets/37112852/c37ca467-da0e-4748-9ae5-3a20366a887a
+
 
 <br/><br/>
 ## A little theory 
