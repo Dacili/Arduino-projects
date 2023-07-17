@@ -59,6 +59,13 @@ When the temperature is high (> 50) then turn on the sound alarm. Unmute the vid
 
 https://github.com/Dacili/Arduino-projects/assets/37112852/c37ca467-da0e-4748-9ae5-3a20366a887a
 
+## 6. Motion alarm  
+https://wokwi.com/projects/370512764857309185   
+When motion is detected alarm is turned on.   
+
+
+https://github.com/Dacili/Arduino-projects/assets/37112852/5377665c-f670-4652-a85e-958280021178
+
 
 <br/><br/>
 ## A little theory 
