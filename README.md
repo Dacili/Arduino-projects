@@ -52,7 +52,10 @@ https://github.com/Dacili/Arduino-projects/assets/37112852/4a761861-2b1c-4ffa-9e
 While doing simulation, if you click on pause button, you will see in that moment which pin is input vs output info:  
 ![image](https://github.com/Dacili/Arduino-projects/assets/37112852/faddb15a-5e87-4836-b33f-f4ffe7b3d2c7)  
 
+## 5. Digital Humidity and Temperature sensor alarm  
+https://wokwi.com/projects/370509489417168897  
 
+<br/><br/>
 ## A little theory 
 
 **LED diode:**  
