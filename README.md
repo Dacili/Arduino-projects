@@ -61,7 +61,7 @@ https://github.com/Dacili/Arduino-projects/assets/37112852/c37ca467-da0e-4748-9a
 
 ## 6. Motion alarm  
 https://wokwi.com/projects/370512764857309185   
-When motion is detected alarm is turned on.   
+When motion is detected alarm is turned on. Unmute the video to hear the sound.    
 
 
 https://github.com/Dacili/Arduino-projects/assets/37112852/5377665c-f670-4652-a85e-958280021178
